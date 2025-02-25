@@ -14,7 +14,7 @@ Welcome to my portfolio websitel This project is a simple two-page site that inc
 
   ## How to view
 
-  You can access my portfolio website by visiting [Link] Feel free to explore the coctent and get in touch!
+  You can access my portfolio website by visiting [https://haripeak.github.io/Portfolio-simple-website/] Feel free to explore the coctent and get in touch!
 
   ## Contributing
 
